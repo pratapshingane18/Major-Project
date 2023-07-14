@@ -1,0 +1,49 @@
+Major Project 1:
+
+Idea:
+
+1. Reseach Paper Input.
+2. Data Preprocessing
+3. Parameters which concludes quality of research paper or any other paper. (No of Verb desc the quality of that article).
+4. We have to analyze the article / data.
+5. Based on the Analysis we have to rate the article/paper.
+6. Web application for this.. 
+
+
+Stack:
+
+frontend: Streamlit
+backend: Python
+Modules:  for img to text or for seprating paragraphs in each paper.
+
+
+Work to do:
+
+1. Reseach Paper finding.. [Find Reaseach Paper Realted to giving rating to articles based on quality of content]
+2. Find Parameters for the conclusion and deciding the quality of article.
+3. UI
+4. Data Preprocessing
+5. Algorithm/File for finind quality 
+6. Conclusion and results.
+
+
+
+
+Topics::
+
+The Challenges of Data Quality and Data Quality Assessment in the Big Data Era
+
+Method for Data Quality Assessment of Synthetic Industrial Data
+
+Predicting article quality scores with machine
+learning:
+
+Research Methods in Machine Learning: A Content
+Analysis
+
+A Qualitative Assessment of Machine Learning Support for Detecting Data Completeness and Accuracy Issues to Improve Data Analytics in Big Data for the Healthcare Industry
+
+"Quality Evaluation of Research Papers in Machine Learning: A Data Analysis-driven Approach"
+
+"Predicting Research Paper Quality in Machine Learning: A Data Analysis Perspective"
+
